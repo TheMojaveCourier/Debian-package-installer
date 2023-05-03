@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Package Manager CMD
-Comment=Package manager in the Terminal 
-Exec=/home/nikolas/Desktop/Pkg_installer/Package_Manager_CMD.sh
-Terminal=true
-Type=Application
-Icon=terminal
-Categories=Network
