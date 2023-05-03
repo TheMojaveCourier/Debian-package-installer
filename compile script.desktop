@@ -1,6 +1,0 @@
-[Desktop Entry]
-Name=Compile script
-Comment=Executes make command for the directory
-Exec=/home/nikolas/Desktop/Pkg_installer/compile_script.sh
-Terminal=true
-Type=Application
